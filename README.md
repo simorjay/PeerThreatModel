@@ -27,5 +27,6 @@ Learn: Completing the 6 Modules will take you through the entire program and pro
 Watch: Shadow a review or two.
 Try: Complete a tabletop exercise and become a Reviewer.
 
+![picture 0](images/660a6ba4d263440c9594f6e9292027bf9c9548ef6e6b6dc73c57120ef46a2d43.png)  
 
 

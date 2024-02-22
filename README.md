@@ -1,5 +1,5 @@
-# Microsoft based Threat Modeling Review Program
-Purpose:  The purpose of the Microsoft Security training is to demystify the security review process in Continuous Secure Development Lifecycle (cSDL) and to develop and cultivate techniques and skills to help you be security minded in your solutions and serve as Threat Model Reviewers.
+# Threat Modeling Reviewer Program - built on the Microsoft peer review model
+The purpose of the  Security training is to demystify the security review process in Continuous Secure Development Lifecycle (cSDL) and to develop and cultivate techniques and skills to help you be security minded in your solutions and serve as Threat Model Reviewers.
 
  
 

@@ -1,4 +1,4 @@
-#Module 3 - Security Fundamentals
+# Module 3 - Security Fundamentals
 
 <table>
   <colgroup>
@@ -14,22 +14,22 @@
         <th>Time</th>
     </tr>
   <tr>
-    <td>STRIKE: Helpful Artifacts for a Comprehensive Threat Modeling Review</td>
-    <td>Helpful artifacts when it comes to preparing for threat modeling review. Help threat model reviewers to better understand the product by providing similar artifacts to abstract product information. When it comes to mitigations, security is an infinite game, and defense in depth is absolutely necessary. Trade off always happen, make it a clearly defined and educated one. When it comes threat modeling, do it early and do it often. Value clarity over process.</td>
-    <td>The Artifacts Needed for a Comprehensive Threat Modeling Review.pdf</td>
-    <td>15 min or 15 Slides</td>
+    <td>A Comprehensive Threat Modeling Review</td>
+    <td>The following presentation provides a overview of a <a href="https://owasp.org/www-community/Threat_Modeling_Process">Threat Model following OWASP Threat Modeling process</a>  in three steps.  The presentation provides Decomposition of the application, Ranking threats and determining countermeasures and mitigigations of a Microsoft AKS fictional cluster deployment</td>
+    <td><a href="https://youtube.com">Review process for AKS cluster</a></td>
+    <td>15 min + 15 minutes read OWASP process</td>
   </tr>
   <tr>
-    <td>STRIKE: Threat Modeling: A Proactive Approach to Security and Risk Management</td>
-    <td>Ask questions, think bad, do good. Stop thinking of threat modeling as a compliance activity but as activity to improve the security design and product resilience. Continuous Assurance requires you owning your security and safety. Threat modeling is a collaborative process and not a solo exercise. We are in this together. Let's level up our engineering skills with threat modeling. Make products that are not only functional, but also secure and resilient from start. Let's avoid security incidents before they happen.</td>
-    <td>Deck and Go Dos | Threat Modeling: A Proactive Approach to Security and Risk Management - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>20 min or 21 Slides</td>
+    <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
+    <td>Reivew the PASTA Process for attack simulation review. This presetnation and content provide insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA.</a></td>
+    <td><a href="https://youtu.be/YqEbYiKvoUg"> Video review of PASTA</a> </td>
+    <td>20 min review and 36 Minute video</td>
   </tr>
   <tr>
-    <td>STRIKE: Authentication &amp; Authorization</td>
-    <td>This session will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. We will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>
-    <td>Course: Authentication &amp; Authorization - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>25 min video or 31 Slides</td>
+    <td>Entra Authentication &amp; Authorization</td>
+    <td>The following sessions will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. The sessions will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>
+    <td>Videos: Authentication &amp; Authorization <a href="https://www.youtube.com/watch?v=51B-jSOBF8U">Authentication Fundamentals</a>, <a href="https://www.youtube.com/watch?v=l-6QSEqDJPo">Developer view of SAML</a>, <a href="https://www.youtube.com/watch?v=iSYcWNpi_6A">Authentication Methods Explained</a>, <a href="https://www.youtube.com/watch?v=GhrvZ5nUWNg">Cookies and Session tokens</a>, <a href="https://www.youtube.com/watch?v=xalg8a3eIy4">Protecting Cookies</a></td>
+    <td>75 min video</td>
   </tr>
   <tr>
     <td>STRIKE: Credential Scanning &amp; Security Code Analysis</td>

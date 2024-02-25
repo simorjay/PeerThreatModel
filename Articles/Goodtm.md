@@ -1,5 +1,6 @@
  
-What Makes a Good Threat Model?
+# What Makes a Good Threat Model?
+
 In the realm of cybersecurity, threat modeling plays a pivotal role in safeguarding systems and applications against potential risks. A well-constructed threat model provides valuable insights into vulnerabilities, attack vectors, and mitigation strategies. Let’s delve into what distinguishes a good threat model from a subpar one.
 
 1. Picking the right tool: 
@@ -19,32 +20,32 @@ Threat modeling need not be an arcane art. Simplify the approach. Demanding that
 6.  Validation and Verification:
 A good threat model doesn’t stop at identification—it validates and verifies. It outlines potential threats, proposes mitigation strategies, and ensures successful implementation. Regular reviews and updates keep the model relevant as the threat landscape evolves.
 
-What information to include?
-•	Components
+## What information to include?
+***Components***
 All components that interact, or are involved within your service should be included in your Threat Model diagram.  This includes components like storage resources, virtual machines, etc.  
-•	Data Flow Directions
+***Data Flow Directions***
 Specify the interactions and exchange of information between components, including the direction of data flow. 
-•	Trust boundaries
+***Trust boundaries***
 When data flows intersect a particular boundary (network, machine boundary, domains, etc.), a trust boundary will need to be specified. This can be represented as a line, dividing the ends of a data flow, or a self contained "box" containing the relevant components and interactions.
 
-What does a good threat model diagram look like?
+# What does a good threat model diagram look like?
 The following diagram is an example of a good threat model diagram. It is a re-worked version of a threat model diagram as a sample design of an AKS based web service.
 
 ![picture 0](../images/787862a3225125c13419f715b6a08ff7e6cc7bddf135e3d088634b65325c46f6.png)  
 
-1.) Have separate diagrams to describe different flows and logical components of the service
+***1. Have separate diagrams to describe different flows and logical components of the service***
 
 Breaking a large threat model diagram down to smaller diagrams.  Smaller diagrams describe different flows and logical components help with managing future updates (to the diagram) and abstracting away complexities. It makes it easier to follow and present the service during the threat model review meeting.    
 
-2.) Include brief high-level descriptions to set context
+***2. Include brief high-level descriptions to set context***
 
 Sometimes it is difficult to understand the context and purpose of a specific part of the service by looking at its components and interactions. Having a brief description to set the context helps with brainstorming potential threats and risks.
 
-3.) Specify the trust boundaries for your service
+***3. Specify the trust boundaries for your service***
 
 Trust boundaries can be on a network-level, machine-level, or domain-level, to name a few. They define divisions where the level of trust changes due to differing environmental conditions and settings. There may be security and/or privacy risks associated with data crossing trust boundaries.
 
-4.) Descriptive components and interactions
+***4. Descriptive components and interactions***
 
 Be as descriptive (but also as concise) as possible when describing components and interactions within the service as it helps with setting context. Attributes can be set on components and data flow directions to add metadata. This metadata is used to render icons (e.g. a key to indicate an HTTPS connection) as a means, alternative to text, to convey information, and can also be used to auto-generate threats.
 

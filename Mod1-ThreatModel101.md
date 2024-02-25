@@ -77,7 +77,7 @@
   <tr>
     <td>What makes a good threat model?</td>
     <td>If you're doing your first threat model or haven't done one in a while and are asked to make one, you may wonder where and how to start. This blog attempts to give a few tips on what makes a threat model good. Having a good threat model sets the foundation for a productive threat model review meeting.</td>
-    <td><a href="https://cloudntech.blogspot.com/2024/02/what-makes-good-threat-model.html">Article Good AKS TM design</a></td>
+    <td><a href="https://github.com/simorjay/PeerThreatModel/blob/main/Articles/Goodtm.md"> Good TM design</a></td>
     <td>15 min</td>
   </tr>
 </table>

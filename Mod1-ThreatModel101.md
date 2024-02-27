@@ -16,9 +16,9 @@
   </tr>
   <tr>
     <td>Onboarding Video</td>
-    <td>Principal Program Manager, Frank Simorjay welcomes engineers to the MCI Security Program and provides an overview of the program, leadership mandate and key factors that go into your role in contributing towards a /shift left culture.</td>
-    <td>Video: MCI Security Review - Onboarding v1.mp4<br>Slides only: 1Onboarding_MCI Threat Model Review Program_SLIDES.pptx</td>
-    <td>15 min video<br>or<br>20 slides</td>
+    <td>Principal Program Manager, Frank Simorjay welcomes you to the Security reviewer program and provides an overview of the program.</td>
+    <td><a href="https://youtu.be/s-YrCIGwbVs"> Threat Modeling reviewer program introduction
+    <td>10 min video
   </tr>
   <tr>
     <td>What is threat modeling?</td>

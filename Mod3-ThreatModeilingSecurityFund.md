@@ -1,4 +1,4 @@
-#Module 3 - Security Fundamentals
+# Module 3 - Security Fundamentals
 
 <table>
   <colgroup>
@@ -14,43 +14,32 @@
         <th>Time</th>
     </tr>
   <tr>
-    <td>STRIKE: Helpful Artifacts for a Comprehensive Threat Modeling Review</td>
-    <td>Helpful artifacts when it comes to preparing for threat modeling review. Help threat model reviewers to better understand the product by providing similar artifacts to abstract product information. When it comes to mitigations, security is an infinite game, and defense in depth is absolutely necessary. Trade off always happen, make it a clearly defined and educated one. When it comes threat modeling, do it early and do it often. Value clarity over process.</td>
-    <td>The Artifacts Needed for a Comprehensive Threat Modeling Review.pdf</td>
-    <td>15 min or 15 Slides</td>
+    <td>A Comprehensive Threat Modeling Review</td>
+    <td>The following presentation provides a overview of a <a href="https://owasp.org/www-community/Threat_Modeling_Process">Threat Model following OWASP Threat Modeling process</a>  in three steps.  The presentation provides Decomposition of the application, Ranking threats and determining countermeasures and mitigigations of a Microsoft AKS fictional cluster deployment</td>
+    <td><a href="https://youtube.com">Review process for AKS cluster</a></td>
+    <td>15 min + 15 minutes read OWASP process</td>
   </tr>
   <tr>
-    <td>STRIKE: Threat Modeling: A Proactive Approach to Security and Risk Management</td>
-    <td>Ask questions, think bad, do good. Stop thinking of threat modeling as a compliance activity but as activity to improve the security design and product resilience. Continuous Assurance requires you owning your security and safety. Threat modeling is a collaborative process and not a solo exercise. We are in this together. Let's level up our engineering skills with threat modeling. Make products that are not only functional, but also secure and resilient from start. Let's avoid security incidents before they happen.</td>
-    <td>Deck and Go Dos | Threat Modeling: A Proactive Approach to Security and Risk Management - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>20 min or 21 Slides</td>
+    <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
+    <td>Reivew the PASTA Process for attack simulation review. This presetnation and content provide insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA.</a></td>
+    <td><a href="https://youtu.be/YqEbYiKvoUg"> Video review of PASTA</a> </td>
+    <td>20 min review and 36 Minute video</td>
   </tr>
   <tr>
-    <td>STRIKE: Authentication &amp; Authorization</td>
-    <td>This session will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. We will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>
-    <td>Course: Authentication &amp; Authorization - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>25 min video or 31 Slides</td>
+    <td> Authentication and Authorization</td>
+    <td>The following sessions will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. The sessions will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>
+    <td><a href="https://www.youtube.com/watch?v=51B-jSOBF8U">Authentication Fundamentals</a>,</br> <a href="https://www.youtube.com/watch?v=l-6QSEqDJPo">Developer view of SAML</a>, </br> <a href="https://www.youtube.com/watch?v=iSYcWNpi_6A">Authentication Methods Explained</a>, <a href="https://www.youtube.com/watch?v=GhrvZ5nUWNg">Cookies and Session tokens</a>, <a href="https://www.youtube.com/watch?v=xalg8a3eIy4">Protecting Cookies</a></td>
+    <td>75 min video</td>
+  </tr>
+
+  <tr>
+    <td>Public Key Infrastructure (PKI)</td>
+    <td>This section address the working of PKI, and implementation in Azure. For security reviews it is essential to know it's operation, and role it has in a design.</td>
+    <td><a href="https://www.youtube.com/watch?v=0ctat6RBrFo"> What is PKI</a> , <a href="https://www.youtube.com/watch?v=Z7ReOsSH3RU"> How to set up ADCS (PKI)</a> </td>
+    <td>15 min </td>
   </tr>
   <tr>
-    <td>STRIKE: Credential Scanning &amp; Security Code Analysis</td>
-    <td>This talk will discuss Security Code analysis, credential scanning and Guardian. We will include a demonstration of Guardian and its tools (with emphasis on CredScan) that should be run in Azure DevOps Pipelines to meet SDL compliance requirements.</td>
-    <td>Course: Credential Scanning &amp; Security Code Analysis - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>25 min video or 12 Slides</td>
-  </tr>
-  <tr>
-    <td>STRIKE: Update Management</td>
-    <td>This talk will discuss update management in the event of a vulnerability being discovered and/or exploited in an SDK. We will explore planning for various update scenarios, such as: such as onboarding their Windows-related updates to the Microsoft Windows update, signing and distributing code updates, and response strategies for cloud-related incidents.</td>
-    <td>Course: Update Management - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>20 min video or 19 Slides</td>
-  </tr>
-  <tr>
-    <td>STRIKE: Cryptography and PKI</td>
-    <td>Covers cryptography and public key infrastructure (PKI) topics in-depth, ranging from foundational hashing and encryption knowledge to implementation details. We will discuss attacks on cryptographic and PKI implementations, differences and trade-offs between encryption suites, certificate issuance and validation, and more.</td>
-    <td>Course: Cryptography and PKI - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>75 min video or 52 Slides</td>
-  </tr>
-  <tr>
-    <td>STRIKE: Component Governance</td>
+    <td>SBOM, and Open Source review</td>
     <td>In this discussion, we will provide a general overview of component governance under SDL. We will then hold a Q&amp;A for SDK members to receive guidance on what specific component governance challenges they face.</td>
     <td>Course: Component Governance - STRIKE Online (strikecommunity.azurewebsites.net)</td>
     <td>25 min video or 7 Slides</td>

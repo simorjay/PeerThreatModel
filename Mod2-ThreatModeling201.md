@@ -1,4 +1,4 @@
-#Module 2 - Threat Modeling 201
+# Module 2 - Threat Modeling 201
 
 <table>
   <colgroup>
@@ -14,39 +14,52 @@
         <th>Time</th>
     </tr>
     <tr>
-        <td>Security Assurance Threat Model Process Overview</td>
-        <td>The document is designed to be a guidance for the Threat Model process managed by C&amp;E Security Assurance team. It includes high level overview of what threat modeling is, why C&amp;E teams are required to go through the process, steps for its completion from scheduling the meeting with C&amp;E Security Assurance to post threat model review activity. How to drive the threat model review provides guidance to Subject Matter Experts (SMEs) to ensure consistency and depth of the review based on STRIDE threat model. The ongoing initiatives for process improvement are captured in short and long-term team’s goals.</td>
-        <td>Security Assurance Threat Model Process V1.docx (sharepoint.com)</td>
-        <td>15 min</td>
+        <td>Zero Trust Model</td>
+        <td>The training provides a comprehensive look at developing solutions with a Zero Trust approach. Applying Zero trust in a design ensures that you veryfiy explicitly, use least privlidge, and assume breach. All these elements need to be considered when designing and reviewing a threat model</td>
+    <td><a href="https://learn.microsoft.com/en-us/security/zero-trust/zero-trust-overview"> What is zero trust </a>, <br/><a href="https://learn.microsoft.com/en-us/training/modules/zero-trust-introduction/"> Introduction to Zero Trust </a> ,<br/> <a href="https://learn.microsoft.com/en-us/training/modules/introduction-zero-trust-best-practice-frameworks/"> Zero Trust best practice frameworks </a></td>
+    <td>60 min </tr>
     </tr>
     <tr>
         <td>Microsoft Threat Modeling Tool</td>
         <td>This video contains a hands-on session with Microsoft Threat Modeling tool.</td>
-        <td>[Walk you through building a threat model using Microsoft Threat Model tool.] 2. Microsoft Threat Modeling Practical session | UCSC (youtube.com)</td>
-        <td>16 min video</td>
+        <td><a href="https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool"> Microsoft Threat Modeling Tool</a>, <br/><a href="https://www.youtube.com/watch?v=uOGE0VIcnBo"> Video use of the  Threat Modeling tool</a></td> 
+        <td>5 minute read of guide, 16 min video</td>
+    </tr>
+        <tr>
+        <td>Threats Manager Studio (TMS) </td>
+        <td>The Threats Manager Studio (TMS) is an extention to using the Threat Modeling tool that provides a exceptional way to reconsider threat analysis, and review. </td>
+        <td><a href="https://threatsmanager.com/training/intro/diagramming/diagramming-basics/"> Basic Diagramming</a>, <br/><a href="https://www.youtube.com/watch?v=N7bdgiTwD2U"> Video use of the Threats Manager Studio</a></td>
+        <td>Video 1:28 hours</td>
+    </tr>
+        </tr>
+        <tr>
+        <td>Threats Manager Studio (TMS) Learnning</td>
+        <td>Training to use the TMS is broken into Introductory, Advanced, and Expert topics. In this section becoming familiar with the Introduction, and Advanced topics will advance your ability to create great reviews.</td>
+        <td><a href="https://threatsmanager.com/training/intro/"> Introductory Topic</a>, <br/><a href="https://threatsmanager.com/training/advanced/"> Advanced topic</a></td>
+        <td>2 hours review</td>
     </tr>
     <tr>
-        <td>Introduction to Microsoft Security Development Lifecycle</td>
+        <td>USing STRIDE for Threat Modeling</td>
         <td>Introduction and goals How to Threat Model STRIDE per Element Approach Diagram Validation Rules of Thumb</td>
-        <td>Introduction_to_Threat_Modeling.ppsx (live.com)</td>
-        <td>77 Slides 20 min</td>
+        <td> <a href="https://www.youtube.com/watch?v=rEnJYNkUde0"> STRIDE threat modeling</a>                 , <br/><a href="https://www.youtube.com/watch?v=lnvYlg4HOX4"> Using STRIDE</a>     </td>
+        <td>40 min</td>
     </tr>
     <tr>
         <td>A Guide to Threat Modelling for Developers</td>
         <td>This article provides clear and simple steps to help teams that want to adopt threat modelling. Threat modelling is a risk-based approach to designing secure systems. It is based on identifying threats in order to develop mitigations to them. With cyber security risk increasing and enterprises becoming more aware of their liabilities, software development teams need effective ways to build security into software.</td>
-        <td>A Guide to Threat Modelling for Developers (martinfowler.com)</td>
+        <td><a href = https://martinfowler.com/articles/agile-threat-modelling.html>A Guide to Threat Modelling for Developers</a></td>
         <td>30 min</td>
     </tr>
     <tr>
         <td>OWASP “Top Ten list of 2021”</td>
         <td>What is the "top ten" and how is the list compiled? John starts this video series with an explanation of the OWASP Top Ten and how the list is made. Follow along for a video on each of the Top Ten risks! Here's the list for 2021: 1. Broken Access Control 2. Cryptographic Failures 3. Injection 4. Insecure Design 5. Security Misconfiguration 6. Vulnerable and Outdated Components 7. Identification and Authentication Failures 8. Software and Data Integrity Failures 9. Security Logging and Monitoring Failures 10. Server Side Request Forgery (SSRF)</td>
-        <td>2021 OWASP Top Ten Overview (youtube.com) OWASP Source Site</td>
+        <td><a href = https://www.youtube.com/watch?v=uu7o6hEswVQ&list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ>2021 OWASP Top Ten Overview</a>, </br> <a href = https://owasp.org/www-project-top-ten/>2021 OWASP Top Ten</a></td>
         <td>10 min</td>
     </tr>
     <tr>
         <td>Threat Modeling Playbook by Sebastien Deleersnyder</td>
         <td>Video: Threat Modeling Playbook by Sebastien Deleersnyder, October 12, 2020</td>
-        <td>Threat Modeling Playbook by Sebastien Deleersnyder</td>
+        <td><a href = https://www.youtube.com/watch?v=6gruQov9YYo&list=WL&index=376> Threat Modeling Playbook by Sebastien Deleersnyder</a></td>
         <td>60 min</td>
     </tr>
 </table>

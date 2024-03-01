@@ -17,9 +17,8 @@
   <tr>
     <td>Onboarding Video</td>
     <td>Principal Program Manager, Frank Simorjay welcomes you to the Security reviewer program and provides an overview of the program.</td>
-    <td><a href="https://youtu.be/s-YrCIGwbVs"> Threat Modeling reviewer program introduction
-    <td>10 min video
-  </tr>
+    <td><a href="https://youtu.be/s-YrCIGwbVs"> Threat Modeling reviewer program introduction </a></td>
+    <td>10 min video</tr>
   <tr>
     <td>What is threat modeling?</td>
     <td>Threat Modeling Manifesto is a good starting place for Values, and Pricipals to consider for Security reviews, or Threat Modeling.</td>

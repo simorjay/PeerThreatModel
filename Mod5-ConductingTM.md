@@ -22,7 +22,7 @@
     <tr>
         <td>Review Threat Model Questionnaire</td>
         <td>The security questionnaire is used to provide MCI Threat Model reviewers with important answers to questions ahead of time. Not all questions need to be addressed, only the ones you feel are important based on the Threat Model design.</td>
-        <td>Threat Model Review Questionnaire</td>
+        <td><a href="articals/checklist.md">Threat Model Review Questionnaire</td>
         <td>10 min read</td>
     </tr>
     <tr>

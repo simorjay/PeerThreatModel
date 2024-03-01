@@ -26,31 +26,20 @@
     <td>20 min review and 36 Minute video</td>
   </tr>
   <tr>
-    <td>Entra Authentication &amp; Authorization</td>
+    <td> Authentication and Authorization</td>
     <td>The following sessions will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. The sessions will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>
-    <td>Videos: Authentication &amp; Authorization <a href="https://www.youtube.com/watch?v=51B-jSOBF8U">Authentication Fundamentals</a>, <a href="https://www.youtube.com/watch?v=l-6QSEqDJPo">Developer view of SAML</a>, <a href="https://www.youtube.com/watch?v=iSYcWNpi_6A">Authentication Methods Explained</a>, <a href="https://www.youtube.com/watch?v=GhrvZ5nUWNg">Cookies and Session tokens</a>, <a href="https://www.youtube.com/watch?v=xalg8a3eIy4">Protecting Cookies</a></td>
+    <td><a href="https://www.youtube.com/watch?v=51B-jSOBF8U">Authentication Fundamentals</a>,</br> <a href="https://www.youtube.com/watch?v=l-6QSEqDJPo">Developer view of SAML</a>, </br> <a href="https://www.youtube.com/watch?v=iSYcWNpi_6A">Authentication Methods Explained</a>, <a href="https://www.youtube.com/watch?v=GhrvZ5nUWNg">Cookies and Session tokens</a>, <a href="https://www.youtube.com/watch?v=xalg8a3eIy4">Protecting Cookies</a></td>
     <td>75 min video</td>
   </tr>
+
   <tr>
-    <td>STRIKE: Credential Scanning &amp; Security Code Analysis</td>
-    <td>This talk will discuss Security Code analysis, credential scanning and Guardian. We will include a demonstration of Guardian and its tools (with emphasis on CredScan) that should be run in Azure DevOps Pipelines to meet SDL compliance requirements.</td>
-    <td>Course: Credential Scanning &amp; Security Code Analysis - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>25 min video or 12 Slides</td>
+    <td>Public Key Infrastructure (PKI)</td>
+    <td>This section address the working of PKI, and implementation in Azure. For security reviews it is essential to know it's operation, and role it has in a design.</td>
+    <td><a href="https://www.youtube.com/watch?v=0ctat6RBrFo"> What is PKI</a> , <a href="https://www.youtube.com/watch?v=Z7ReOsSH3RU"> How to set up ADCS (PKI)</a> </td>
+    <td>15 min </td>
   </tr>
   <tr>
-    <td>STRIKE: Update Management</td>
-    <td>This talk will discuss update management in the event of a vulnerability being discovered and/or exploited in an SDK. We will explore planning for various update scenarios, such as: such as onboarding their Windows-related updates to the Microsoft Windows update, signing and distributing code updates, and response strategies for cloud-related incidents.</td>
-    <td>Course: Update Management - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>20 min video or 19 Slides</td>
-  </tr>
-  <tr>
-    <td>STRIKE: Cryptography and PKI</td>
-    <td>Covers cryptography and public key infrastructure (PKI) topics in-depth, ranging from foundational hashing and encryption knowledge to implementation details. We will discuss attacks on cryptographic and PKI implementations, differences and trade-offs between encryption suites, certificate issuance and validation, and more.</td>
-    <td>Course: Cryptography and PKI - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>75 min video or 52 Slides</td>
-  </tr>
-  <tr>
-    <td>STRIKE: Component Governance</td>
+    <td>SBOM, and Open Source review</td>
     <td>In this discussion, we will provide a general overview of component governance under SDL. We will then hold a Q&amp;A for SDK members to receive guidance on what specific component governance challenges they face.</td>
     <td>Course: Component Governance - STRIKE Online (strikecommunity.azurewebsites.net)</td>
     <td>25 min video or 7 Slides</td>

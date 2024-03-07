@@ -58,3 +58,9 @@
     - Implement real-time monitoring, anomaly detection, and behavior analysis.
     - Use security information and event management (SIEM) solutions.
     - Regularly review access logs and audit trails.
+
+### Open Source and SBOM:
+1. What packages (OSS libraries) where included in the software?
+   - Provide link to Github, or other repo
+2. Has an SBOM been completed?
+   - Provide SBOM

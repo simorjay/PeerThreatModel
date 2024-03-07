@@ -40,20 +40,21 @@
   </tr>
   <tr>
     <td>SBOM, and Open Source review</td>
-    <td>In this discussion, we will provide a general overview of component governance under SDL. We will then hold a Q&amp;A for SDK members to receive guidance on what specific component governance challenges they face.</td>
-    <td>Course: Component Governance - STRIKE Online (strikecommunity.azurewebsites.net)</td>
-    <td>25 min video or 7 Slides</td>
+    <td>The following session will address the need to be aware of Open Source software, and ensure that security reviews address the need for a software bill of materials, to ensure dependencies are evaluated in a review</td>
+    <td><a href="https://www.youtube.com/watch?v=6yljBKKl8Vo">SBOM Explainer:What is SBOM Part 1</a>, </br><a href="https://www.youtube.com/watch?v=7IJaNdFwwBo">SBOM Explainer:What is SBOM Part 2</a>,</br><a href="https://www.youtube.com/watch?v=1_GpbwR9f94">SBOM Explainer:What is SBOM Part 3</a>,
+    </br><a href="https://www.youtube.com/watch?v=n2PEezeuMqE&t=102s">Reducing Supply Chain Risk with SBOMs and Dependency-Track</a> 
+    </br><a href="https://www.wiz.io/academy/top-open-source-sbom-tools">Top 11 Open-source SBOM tools</a>,</td>
+    <td>1.25 hour video </td>
   </tr>
   <tr>
         <td>CVE and CVSS Explained</td>
         <td>The Common Vulnerabilities and Exposures (CVE) Program’s primary purpose is to uniquely identify vulnerabilities and to associate specific versions of code bases (e.g., software and shared libraries) to those vulnerabilities. The use of CVEs ensures that two or more parties can confidently refer to a CVE identifier (ID) when discussing or sharing information about a unique vulnerability.</td>
-        <td><a href="https://www.youtube.com/watch?v=SecurityDetail">CVE and CVSS explained | Security Detail (youtube.com)</a></td>
+        <td><a href="https://www.youtube.com/watch?v=SecurityDetail">CVE and CVSS explained  </a></td>
         <td>3 min</td>
     </tr>
     <tr>
         <td>Dread Methodology</td>
-        <td>Damage potential: Threat to reputation as well as financial and legal liability (8)<br>Reproducibility: Fully reproducible (10)<br>Exploitability: Require to be on the same subnet or have compromised a router (7)<br>Affected users: Affects all users (10)<br>Discoverability: Can be found out easily (10)</td>
-        <td></td>
+        <td>Damage potential: Threat to reputation as well as financial and legal liability (8)<br>Reproducibility: Fully reproducible (10)<br>Exploitability: Require to be on the same subnet or have compromised a router (7)<br>Affected users: Affects all users</td> <td><a href="https://www.youtube.com/watch?v=4acynfRM6ws"> Discoverability: Can be found out easily </a></td>
         <td>3 min</td>
     </tr>
     <tr>

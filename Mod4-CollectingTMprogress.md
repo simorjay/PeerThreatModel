@@ -1,2 +1,34 @@
-Outline how we can use an xls to collect TM review.
-Training management - and maybe pbix for training
+# Module 4 - Using the Threat model tracker
+
+<table>
+  <colgroup>
+    <col style="width: 200px;">
+    <col style="width: 400px;">
+    <col style="width: 300px;">
+    <col style="width: 100px;">
+  </colgroup>
+    <tr>
+        <th>Title</th>
+        <th>Abstract</th>
+        <th>Resource</th>
+        <th>Time</th>
+    </tr>
+  <tr>
+    <td>Simple guide to the Sample TM Tracker</td>
+    <td>The provided <a href="/Articles/TM-Tracking.xlsx">Threat Model Tracker</a> provides a simple way to track user training, as well as tracking Threat model review repair items. </td>
+    <td><a href="https://youtube.com">Walk thru of the tracker</a></td>
+    <td>10 min + 10 Minutes review tracker</td>
+  </tr>
+   <tr>
+    <td>Filing bugs and issues</td>
+    <td>An overview of the requirements for bug reporting and a description of the repair process.  </td>
+    <td><a href="https://youtube.com">Short discussion on fixing bugs</a></td>
+    <td>10 min video</td>
+  </tr>
+ <tr>
+    <td>Provide PowerBi Dashboard</td>
+    <td>Dashboard to come soone </td>
+    <td><a href="https://youtube.com">Short video on dashboard</a></td>
+    <td>10 min video</td>
+  </tr>
+</table>

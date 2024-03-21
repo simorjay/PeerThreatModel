@@ -22,13 +22,13 @@
    <tr>
     <td>Filing bugs and issues</td>
     <td>An overview of the requirements for bug reporting and a description of the repair process.  </td>
-    <td><a href="https://youtube.com">Short discussion on fixing bugs</a></td>
-    <td>10 min video</td>
+    <td><a href="/Articles/Bugmanage.md">Guidance on managing escalations and bugs</a></td>
+    <td>10 min read</td>
   </tr>
  <tr>
     <td>Provide PowerBi Dashboard</td>
-    <td>Dashboard to come soone </td>
-    <td><a href="https://youtube.com">Short video on dashboard</a></td>
+    <td>Dashboard to come soon </td>
+    <td><a href="https://youtube.com">Short video on dashboard comming soon</a></td>
     <td>10 min video</td>
   </tr>
 </table>

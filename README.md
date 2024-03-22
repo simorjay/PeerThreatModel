@@ -1,5 +1,5 @@
 # Threat Modeling Reviewer Program - built on the Microsoft peer review model
-The purpose of the  Security training is to demystify the security review process in Continuous Secure Development Lifecycle (cSDL) and to develop and cultivate techniques and skills to help you be security minded in your solutions and serve as Threat Model Reviewers.
+The purpose of the  Security training is to demystify the security review process in Secure Development Lifecycle (SDL) and to develop and cultivate techniques and skills to help you be security minded in your solutions and serve as Threat Model Reviewers.
 
  
 
@@ -9,7 +9,7 @@ Training Goal:  The goal of the Security Review training content is to provide y
 
  
 
-What does success look like? Completing the 6 modules, shadowing reviews, preparing for the tabletop exercise (final step before being Certified Reviewer), participating in the Microsoft Monthly Security Meetings, and serving as a peer reviewer.
+What does success look like? Completing the 6 modules, shadowing reviews, preparing for the tabletop exercise, and serving as a peer reviewer.
 
  
 
@@ -18,8 +18,6 @@ What does success look like? Completing the 6 modules, shadowing reviews, prepar
 The  Security Program serves two primary functions: 1) security integration and engineer buy- in and 2) a scalable process that actively and continuously is /shifting left.  
 
  
-
-This training was developed by Microsoft , to help engineers become reviewers and provide security peer review of what we build. 
 
 If you are here and ready to start - the next steps are to:
 

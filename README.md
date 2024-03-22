@@ -1,4 +1,7 @@
-# Threat Modeling Reviewer Program - built on the Microsoft peer review model
+# Threat Modeling Reviewer Program 
+## Extending the Microsoft Threat Modeling program for peer teams
+![picture 2](images/9860224bd7f53f17d102df7edba4dcac3d55c840af543448e3199a8cbf9b7d83.png)  
+
 The purpose of the  Security training is to demystify the security review process in Secure Development Lifecycle (SDL) and to develop and cultivate techniques and skills to help you be security minded in your solutions and serve as Threat Model Reviewers.
 
  

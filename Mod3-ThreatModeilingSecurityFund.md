@@ -102,7 +102,7 @@
     <tr>
         <td>Why this all matter?</td>
         <td>In this section you will watch a videos on ‘what is a bug bounty’ and explore a simple examples. Both exapmles reflect the harsh reality on why threat modeling can help reduce risk.  </td>
-        <td><a href="https://www.youtube.com/watch?v=fkWGK8i2usE">Bounty submission video</a><br><br><a href="https://www.youtube.com/watch?v=MicrosoftExampleBugBounty">Microsoft example Bug Bounty</a><br><br><a href="https://www.youtube.com/watch?v=pjbaZYEYQV8">Publicly disclosed bug bounty</a><br>
+        <td><a href="https://www.youtube.com/watch?v=fkWGK8i2usE">Bounty submission video</a><br><br><a href="https://www.youtube.com/watch?v=pjbaZYEYQV8">Publicly disclosed bug bounty</a><br>
         <td>45 min</td>
     </tr>
 </table>

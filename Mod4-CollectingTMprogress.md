@@ -27,7 +27,8 @@
   </tr>
  <tr>
     <td>Provide PowerBi Dashboard</td>
-    <td>Dashboard to come soon </td>
+    <td>Dashboard to come soon  To use the PBI dashboard, you will need to revise the source location of the xls file. Currently PBI path is  <br>
+    <code> Source = Excel.Workbook(File.Contents("C:\Github\PeerThreatModel\Articles\TM-Tracking.xlsx" </code>)</td>
     <td><a href="https://youtube.com">Short video on dashboard comming soon</a></td>
     <td>10 min video</td>
   </tr>

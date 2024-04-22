@@ -27,9 +27,9 @@
   </tr>
  <tr>
     <td>Provide PowerBi Dashboard</td>
-    <td>Dashboard to come soon  To use the PBI dashboard, you will need to revise the source location of the xls file. Currently PBI path is  <br>
+    <td>Dashboard provided helps illustrate how you can use the sample data in the xls. Download the xls, and PBI to view the sample. NOTE: PowerBi is required to open the file.  You will need to revise the location of the source file to use your local copy of the XLS, review source info in PBI, and revice the following line<br>
     <code> Source = Excel.Workbook(File.Contents("C:\Github\PeerThreatModel\Articles\TM-Tracking.xlsx" </code>)</td>
-    <td><a href="https://youtube.com">Short video on dashboard comming soon</a></td>
+    <td><a href="/Articles/PowerbiSampleDashboard.pbix">Short video on dashboard comming soon</a></td>
     <td>10 min video</td>
   </tr>
 </table>

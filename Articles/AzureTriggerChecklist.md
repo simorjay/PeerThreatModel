@@ -75,16 +75,16 @@ https://shopify.engineering/automatically-rotate-github-tokens
  
 
 #### Microsoft Key Vault
-Have access policies been established?
-Is RBAC configured properly
-Can your keyvault be accessed via Azure Portal, Azure CLI, Azure PowerShell? if so why? 
-Are you using Zero Trust to isolate access, using a PAW?
-How are you protecting your Key Vault Management REST APIs?
-Are you monitoring all Key Vault activity?
-Secrets must not be present in code, documentation, telemetry or pipelines
-Services should only use KV storage for all credential management
-Certificates must be acquired from approved CAs
-Trusted root CAs must be limited to the minimum required to operate the service
+- Have access policies been established?
+- Is RBAC configured properly
+- Can your keyvault be accessed via Azure Portal, Azure CLI, Azure PowerShell? if so why? 
+- Are you using Zero Trust to isolate access, using a PAW?
+- How are you protecting your Key Vault Management REST APIs?
+- Are you monitoring all Key Vault activity?
+- Secrets must not be present in code, documentation, telemetry or pipelines
+- Services should only use KV storage for all credential management
+- Certificates must be acquired from approved CAs
+- Trusted root CAs must be limited to the minimum required to operate the service
  
  
 #### Virtual Machines

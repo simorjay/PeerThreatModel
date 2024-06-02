@@ -16,7 +16,7 @@
     <tr>
         <td>Preparing for the Threat Model Review (Tabletop Exercise)</td>
         <td>The goal of this video is to help you conduct a successful review. This 2 min video will give you a quick overview of what to expect during the review and how to best prepare.</td>
-        <td><a href="03_Preparing for Table Top Exercise-24Jan28FINAL.mp4">03_Preparing for Table Top Exercise-24Jan28FINAL.mp4</a></td>
+        <td><a href="Peer Review - Tabletop exercise">https://www.youtube.com/watch?v=12nmEJ9Gc9g</a></td>
         <td>2 min</td>
     </tr>
     <tr>

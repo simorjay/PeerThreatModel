@@ -1,9 +1,6 @@
 # Table top excersice discussion
-Use this document with the provided TabletopReview.tm7 
-
-All items are grouped
-**Reviewer question:**
-**Designer proposed answer:**
+Use this document with the provided TabletopReview.tm7 to conduct a table top review. All questions are grouped with a **Reviewer question**
+ and a **Designer proposed answer**. The 16 questions are provided as seed discussion and starting point for a review.
 
 1. **Reviewer question:** What protocols are employed for secure token transmission from Entra Identity to the Contoso status web service?
    **Designer proposed answer:** Transactions use HTTPS. With TLS 1.3 (or latest)  
@@ -44,12 +41,8 @@ All items are grouped
 13. **Reviewer question:**  How does the Contoso status web service validate and sanitize input from the browser to mitigate Injection attacks?
 **Designer proposed answer:**
 Recommendation is that you should validate data type, length, and other criteria. For instance, in PHP, you can validate input using functions like is_numeric() or custom validation logic.
-<style>
-td, th {
-    border: none!important;
-}
-</style>
-|   |   | 
+
+
 |---|---|
 |   |Input Sanitization:|
 |   |- Escaping Special Characters: Use libraries or functions to escape characters like <, >, and &. This prevents HTML injection attacks.|

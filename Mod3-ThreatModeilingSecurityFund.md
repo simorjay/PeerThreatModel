@@ -13,12 +13,7 @@
         <th>Resource</th>
         <th>Time</th>
     </tr>
-  <tr>
-    <td>A Comprehensive Threat Modeling Review</td>
-    <td>The following presentation provides a overview of a <a href="https://owasp.org/www-community/Threat_Modeling_Process">Threat Model following OWASP Threat Modeling process</a>  in three steps.  The presentation provides Decomposition of the application, Ranking threats and determining countermeasures and mitigigations of a Microsoft AKS fictional cluster deployment</td>
-    <td><a href="https://youtube.com">Review process for AKS cluster</a></td>
-    <td>15 min + 15 minutes read OWASP process</td>
-  </tr>
+
   <tr>
     <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
     <td>Reivew the PASTA Process for attack simulation review. This presetnation and content provide insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA.</a></td>

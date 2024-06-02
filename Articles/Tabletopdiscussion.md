@@ -43,20 +43,20 @@ Use this document with the provided TabletopReview.tm7 to conduct a table top re
 Recommendation is that you should validate data type, length, and other criteria. For instance, in PHP, you can validate input using functions like is_numeric() or custom validation logic.
 
 
-**Input Sanitization:**
+    **Input Sanitization:**
 - Escaping Special Characters: Use libraries or functions to escape characters like <, >, and &. This prevents HTML injection attacks.
 - Removing HTML Tags: Sanitize user input to prevent cross-site scripting (XSS) attacks. For example, use a library like Validator.js to strip HTML tags from input.
 - Parameterized Queries: When interacting with databases, use parameterized queries or prepared statements. These prevent SQL injection by separating user input from SQL commands. Encoding User Input: Encode user input before displaying it. For instance, convert special characters to their HTML entities 
 
-1.    **Reviewer question:** How does the Azure Key Vault ensure that tokens used for the processor to access the database are securely stored and transmitted?
+14.    **Reviewer question:** How does the Azure Key Vault ensure that tokens used for the processor to access the database are securely stored and transmitted?
     **Designer proposed answer:** Specify which IP addresses have access to your Key Vaults. You can use virtual network service endpoints to limit access to a specified virtual network or a list of IPv4 address ranges. This ensures that only authorized sources can connect to your Key Vault.
 -  Consider using Azure Private Link to access Azure Key Vault securely within your virtual network. It allows you to connect privately and directly to the service without exposing it to the public Internet. No gateways, NAT devices, or public IP addresses are needed.  
 -  Consider using the Azure Key Vault Premium tier, that includes hardware security modules (HSMs) for added protection.    
 
-1.   **Reviewer question:** What DDoS mitigation strategies are in place to protect the 'Contoso status web service' from high volumes of requests from the 'Browser'?
+15.   **Reviewer question:** What DDoS mitigation strategies are in place to protect the 'Contoso status web service' from high volumes of requests from the 'Browser'?
 **Designer proposed answer:** It's recommended that you wnable Azure DDoS Network Protection. This automatically defends the Azure resources within the enviroment against DDoS attacks.  
 
-1.    **Reviewer question:** Are there any auditing mechanisms in place to track the execution and completion of the Contoso WebProcessor?
+16.    **Reviewer question:** Are there any auditing mechanisms in place to track the execution and completion of the Contoso WebProcessor?
 **Designer proposed answer:** Utilizing Microsoft Sentinel, Microsoft Defender for Cloud, Azure Automanage Machine Configuration, Azure Resource Manager templates, custom operating system images, Azure Automation State Configuration, Change Tracking and Inventory in Azure Automation, and the Guest Attestation agent on virtual machines  ensure that audit information is collected and centralized for security tracking.
 
 

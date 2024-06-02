@@ -14,12 +14,7 @@
         <th>Time</th>
     </tr>
 
-  <tr>
-    <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
-    <td>Reivew the PASTA Process for attack simulation review. This presetnation and content provide insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA.</a></td>
-    <td><a href="https://youtu.be/YqEbYiKvoUg"> Video review of PASTA</a> </td>
-    <td>20 min review and 36 Minute video</td>
-  </tr>
+  
   <tr>
     <td> Authentication and Authorization</td>
     <td>The following sessions will build upon an overview of security theory to describe best practices and common pitfalls in identification, authentication, and authorization. The sessions will cover authentication and authorization methods used in Azure, such as federated authentication, token and secret handling, and more.</td>

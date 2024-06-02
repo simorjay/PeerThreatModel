@@ -17,7 +17,7 @@
     <td>Simple guide to the Sample TM Tracker</td>
     <td>The provided <a href="/Articles/TM-Tracking.xlsx">Threat Model Tracker</a> provides a simple way to track user training, as well as tracking Threat model review repair items. </td>
     <td><a href="https://youtube.com">Walk thru of the tracker</a></td>
-    <td>10 min + 10 Minutes review tracker</td>
+    <td>10 min + Download</td>
   </tr>
    <tr>
     <td>Filing bugs and issues</td>
@@ -29,7 +29,7 @@
     <td>Provide PowerBi Dashboard</td>
     <td>Dashboard provided helps illustrate how you can use the sample data in the xls. Download the xls, and PBI to view the sample. NOTE: PowerBi is required to open the file.  You will need to revise the location of the source file to use your local copy of the XLS, review source info in PBI, and revice the following line<br>
     <code> Source = Excel.Workbook(File.Contents("C:\Github\PeerThreatModel\Articles\TM-Tracking.xlsx" </code>)</td>
-    <td><a href="/Articles/PowerbiSampleDashboard.pbix">Short video on dashboard comming soon</a></td>
-    <td>10 min video</td>
+    <td><a href="/Articles/PowerbiSampleDashboard.pbix">PowerBi dashboad sample</a></td>
+    <td>download</td>
   </tr>
 </table>

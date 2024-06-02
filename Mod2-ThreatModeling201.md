@@ -52,13 +52,13 @@
     </tr>
       <tr>
     <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
-    <td>Reivew the PASTA Process for attack simulation review. Pasta is an alterative to STRIDE. The videoprovides insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA.</a></td>
+    <td>Reivew the PASTA Process for attack simulation review. Pasta is an alterative to STRIDE. The videoprovides insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA. <b>NOTE</b> Pasta is introduced, but not used in this training, it is provided as an alternative to understand the threat review landscape.</a></td>
     <td><a href="https://youtu.be/YqEbYiKvoUg"> Video review of PASTA</a> </td>
     <td>20 min review and 36 Minute video</td>
   </tr>
     <tr>
     <td>Utilizing PASTA vs STRIDE </td>
-    <td>The video discusses the differences to consider a review model between PASTA, and STRIDE. For a good review effort - it is essential to have a good handle of many review models and consider their benefis and shortcomings. <b> Pasta is introduced, but not used in this training, it is provided as an alternative to understand the threat review landscape </b></td>
+    <td>The video discusses the differences to consider a review model between PASTA, and STRIDE. For a good review effort - it is essential to have a good handle of many review models and consider their benefis and shortcomings. </td>
     <td><a href="https://www.youtube.com/watch?v=oIeF3HkdYcU"> Review of PASTA vs STRIDE</a> </td>
     <td>22 min video</td>
   </tr>

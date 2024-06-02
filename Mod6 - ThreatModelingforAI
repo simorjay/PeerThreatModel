@@ -13,7 +13,19 @@
         <th>Resource</th>
         <th>Time</th>
     </tr>
+    <tr>
+    <td>Threat Modeling AI/ML Systems and Dependencies</td>
+    <td>This document is a deliverable of the AETHER Engineering Practices for AI Working Group and supplements existing SDL threat modeling practices by providing new guidance on threat enumeration and mitigation specific to the AI and Machine Learning space.</td>
+    <td><a href="https://learn.microsoft.com/en-us/security/engineering/threat-modeling-aiml">Threat Modeling AI/ML Systems and Dependencies</a>
+    <td>20 min read</td>
+  </tr>
 
+  <tr>
+    <td> Threat Modelling for ML/AI systems</td>
+    <td>The video provides a good insight on what considerations are required for threat modelling ML and AI systems</td>
+    <td><a href="https://www.youtube.com/watch?v=mjtBUPWrCc8">Threat Modelling for ML/AI systems video</a>
+    <td>41 min video</td>
+  </tr>
   
   <tr>
     <td> AI Driven threat modelling with STRIDE and GPT</td>

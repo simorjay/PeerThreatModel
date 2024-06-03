@@ -8,15 +8,15 @@ The purpose of the  Security training is to demystify the security review proces
 
 Goal:  High quality reviews of everything you build
 
-Training Goal:  The goal of the Security Review training content is to provide you with a solid and well-rounded security and threat model foundation and the necessary tools and resources to conduct quality threat model reviews and security consultations.  This training allows us to share the responsibilities to actively /shift left and to continue to develop interested engineers across Microsoft . 
+Training Goal:  The goal of the Security Review training content is to provide you with a solid and well-rounded security and threat model foundation and the necessary tools and resources to conduct quality threat model reviews and security consultations.  This training allows us to share the responsibilities to actively /shift left and to continue to develop security interested engineers. 
 
  
 
-What does success look like? Completing the 6 modules, shadowing reviews, preparing for the tabletop exercise, and serving as a peer reviewer.
+What does success look like? Completing the modules, preparing for the tabletop exercise, and serving as a peer reviewerto effectively review solutions with security focus.
 
  
 
- Security Program built out in 2023 provides  an engineering led security peer review program to help ensure we build solutions secure by design, and by default.
+ Security Program built out in 2024 provides an engineering led security peer review program to help ensure we build solutions secure by design, and by default.
 
 The  Security Program serves two primary functions: 1) security integration and engineer buy- in and 2) a scalable process that actively and continuously is /shifting left.  
 
@@ -24,9 +24,7 @@ The  Security Program serves two primary functions: 1) security integration and 
 
 If you are here and ready to start - the next steps are to:
 
-Learn: Completing the 6 Modules will take you through the entire program and provide you a good understanding how to conduct a review.
-Watch: Shadow a review or two.
-Try: Complete a tabletop exercise and become a Reviewer.
+Learn: Completing by reading and watching to collected knowledge in the modules, which will take you through the entire program and provide you a good understanding how to conduct a review.
 
 ![picture 1](images/84cdb82b10c8b6a4b7957e8c8514b8f1cb5423f11e200d48e461f4e53228c152.png)  
 

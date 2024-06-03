@@ -1,5 +1,6 @@
 # Module 1 - Threat Modeling 101
-
+Module 1 provides the basics of threat modeling, starting with an introduction to the security reviewer program and progressing through various aspects of creating and applying threat models. It emphasizes the importance of data-flow diagrams, context depth, and using a framework for identifying and mitigating threats, with each resource accompanied by an estimated completion time.
+ 
 
 <table>
   <colgroup>

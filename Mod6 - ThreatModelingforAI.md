@@ -1,4 +1,5 @@
 # Module 6 - Threat Modeling for AI
+AI is quicly transforing security reviews. The section takes early learnings and provides directon for you to consider how to apply reviews that include ML or AI.
 
 <table>
     <colgroup>

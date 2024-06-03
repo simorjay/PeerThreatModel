@@ -1,4 +1,6 @@
 # Module 3 - Security Fundamentals 210
+This modules aims to extend the your understanding of a security review by expanding your knowledge of security foundational elements, this includes a close look at STRIDE elements. 
+
 
 <table>
   <colgroup>

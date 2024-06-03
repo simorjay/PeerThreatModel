@@ -1,4 +1,5 @@
 # Module 2 - Threat Modeling 201
+Module 2 - Threat Modeling 201, covers essential topics such as the Zero Trust Model, Microsoft Threat Modeling Tool, Threats Manager Studio (TMS), using STRIDE for Threat Modeling, and more. 
 
 <table>
   <colgroup>

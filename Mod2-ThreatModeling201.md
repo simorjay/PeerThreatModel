@@ -14,6 +14,12 @@ Module 2 - Threat Modeling 201, covers essential topics such as the Zero Trust M
         <th>Resource</th>
         <th>Time</th>
     </tr>
+     <tr>
+        <td>OWASP “Top Ten list of 2021”</td>
+        <td>What is the "top ten" and how is the list compiled? John starts this video series with an explanation of the OWASP Top Ten and how the list is made. Follow along for a video on each of the Top Ten risks! Here's the list for 2021: 1. Broken Access Control 2. Cryptographic Failures 3. Injection 4. Insecure Design 5. Security Misconfiguration 6. Vulnerable and Outdated Components 7. Identification and Authentication Failures 8. Software and Data Integrity Failures 9. Security Logging and Monitoring Failures 10. Server Side Request Forgery (SSRF)</td>
+        <td><a href = https://www.youtube.com/watch?v=uu7o6hEswVQ&list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ>2021 OWASP Top Ten Overview</a>, </br> <a href = https://owasp.org/www-project-top-ten/>2021 OWASP Top Ten</a></td>
+        <td>10 min</td>
+    </tr>
     <tr>
         <td>Zero Trust Model</td>
         <td>The training provides a comprehensive look at developing solutions with a Zero Trust approach. Applying Zero trust in a design ensures that you veryfiy explicitly, use least privlidge, and assume breach. All these elements need to be considered when designing and reviewing a threat model</td>

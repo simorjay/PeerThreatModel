@@ -40,18 +40,12 @@ Module 2 - Threat Modeling 201, covers essential topics such as the Zero Trust M
         <td>2 hours review</td>
     </tr>
     <tr>
-        <td>USing STRIDE for Threat Modeling</td>
+        <td>Using STRIDE for Threat Modeling</td>
         <td>Introduction and goals How to Threat Model STRIDE per Element Approach Diagram Validation Rules of Thumb</td>
         <td> <a href="https://www.youtube.com/watch?v=rEnJYNkUde0"> STRIDE threat modeling</a>                 , <br/><a href="https://www.youtube.com/watch?v=lnvYlg4HOX4"> Using STRIDE</a>     </td>
         <td>40 min</td>
     </tr>
     <tr>
-        <td>A Guide to Threat Modelling for Developers</td>
-        <td>This article provides clear and simple steps to help teams that want to adopt threat modelling. Threat modelling is a risk-based approach to designing secure systems. It is based on identifying threats in order to develop mitigations to them. With cyber security risk increasing and enterprises becoming more aware of their liabilities, software development teams need effective ways to build security into software.</td>
-        <td><a href = https://martinfowler.com/articles/agile-threat-modelling.html>A Guide to Threat Modelling for Developers</a></td>
-        <td>30 min</td>
-    </tr>
-      <tr>
     <td>Utilizing PASTA (Process for Attack Simulation and THreat Analysis) for risk analaysis</td>
     <td>Reivew the PASTA Process for attack simulation review. Pasta is an alterative to STRIDE. The videoprovides insight into the <a href="https://versprite.com/blog/what-is-pasta-threat-modeling/">7 step process in definding risk, to impact analysis outlined in PASTA. <b>NOTE</b> Pasta is introduced, but not used in this training, it is provided as an alternative to understand the threat review landscape.</a></td>
     <td><a href="https://youtu.be/YqEbYiKvoUg"> Video review of PASTA</a> </td>
@@ -63,11 +57,27 @@ Module 2 - Threat Modeling 201, covers essential topics such as the Zero Trust M
     <td><a href="https://www.youtube.com/watch?v=oIeF3HkdYcU"> Review of PASTA vs STRIDE</a> </td>
     <td>22 min video</td>
   </tr>
-    <tr>
-        <td>OWASP “Top Ten list of 2021”</td>
-        <td>What is the "top ten" and how is the list compiled? John starts this video series with an explanation of the OWASP Top Ten and how the list is made. Follow along for a video on each of the Top Ten risks! Here's the list for 2021: 1. Broken Access Control 2. Cryptographic Failures 3. Injection 4. Insecure Design 5. Security Misconfiguration 6. Vulnerable and Outdated Components 7. Identification and Authentication Failures 8. Software and Data Integrity Failures 9. Security Logging and Monitoring Failures 10. Server Side Request Forgery (SSRF)</td>
-        <td><a href = https://www.youtube.com/watch?v=uu7o6hEswVQ&list=PLyqga7AXMtPOguwtCCXGZUKvd2CDCmUgQ>2021 OWASP Top Ten Overview</a>, </br> <a href = https://owasp.org/www-project-top-ten/>2021 OWASP Top Ten</a></td>
-        <td>10 min</td>
+      <tr>
+        <td>A Guide to Threat dragon</td>
+        <td>OWASP Threat Dragon is a modeling tool used to create threat model diagrams as part of a secure development lifecycle. It can be used to record possible threats and decide on their mitigations, as well as giving a visual indication of the threat model components and threat surfaces. Threat Dragon runs either as a web application or as a desktop application. Threat Dragon supports STRIDE / LINDDUN / CIA / DIE / PLOT4ai, provides modeling diagrams and implements a rule engine to auto-generate threats and their mitigations.</td>
+        <td><a href = https://owasp.org/www-project-threat-dragon/>A Guide to Threat Modelling for Developers</a></td>
+        <td>5 min read and install</td>
+        <tr>
+        <td>Using threat dragon</td>
+        <td>This video outlines how to implement and use the features of the threat dragon tool. </td>
+        <td><a href = https://www.youtube.com/watch?v=hUOAoc6QGJo&t=568s>OWASP Spotlight - Project 22 - OWASP THREAT DRAGON</a></td>
+        <td>25 min</td>
+                <tr>
+        <td>Evaluating threat dragon vs Microsoft tmt</td>
+        <td>This video discusses the diffrences between the tools, and considerations in selecting a tool for your organization </td>
+        <td><a href = https://www.youtube.com/watch?v=SHWwwhVHtug>Evaluating Threat Modeling Tools: Microsoft TMT versus OWASP Threat Dragon</a></td>
+        <td>25 min</td>
+    </tr>
+        <tr>
+        <td>A Guide to Threat Modelling for Developers</td>
+        <td>This article provides clear and simple steps to help teams that want to adopt threat modelling. Threat modelling is a risk-based approach to designing secure systems. It is based on identifying threats in order to develop mitigations to them. With cyber security risk increasing and enterprises becoming more aware of their liabilities, software development teams need effective ways to build security into software.</td>
+        <td><a href = https://martinfowler.com/articles/agile-threat-modelling.html>A Guide to Threat Modelling for Developers</a></td>
+        <td>30 min</td>
     </tr>
     <tr>
         <td>Threat Modeling Playbook by Sebastien Deleersnyder</td>
